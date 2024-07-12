@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.pedders.com.au	TRUE	/	FALSE	1999999999	PHPSESSID	f240a0b7d137ff06af39cb80af03f7d3
-www.pedders.com.au	TRUE	/	FALSE	1999999999	SameSite	Lax
-www.pedders.com.au	TRUE	/	FALSE	1999999999	ip-location	-37.860|144.660
-
