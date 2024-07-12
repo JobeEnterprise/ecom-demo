@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 12 Jul 2024 10:12:58 at https://www.pedders.com.au/product/pedders-rubber-bush-540017 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.pedders.com.au/product/pedders-rubber-bush-540017 -O1 "C:\Users\Ayouby Workstation\Desktop\Pedders\website\peddersdemo1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:13:07	Error: 	"Not Found" (404) at link https://www.pedders.com.au/product/https (from https://www.pedders.com.au/product/pedders-rubber-bush-540017)
+10:13:07	Error: 	"ok" (403) at link https://www.pedders.com.au/product/e,location.href (from https://www.pedders.com.au/product/pedders-rubber-bush-540017)
+10:13:10	Error: 	"ok" (403) at link https://www.pedders.com.au/product/smv_668f7bdd31887_registration_form_content (from https://www.pedders.com.au/product/pedders-rubber-bush-540017)
+10:13:10	Error: 	"ok" (403) at link https://www.pedders.com.au/product/smv_668f7bdd31887_make_model_form_content (from https://www.pedders.com.au/product/pedders-rubber-bush-540017)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 seconds : 39 links scanned, 34 files written (1770267 bytes overall) [737349 bytes received at 61445 bytes/sec], 1686603 bytes transferred using HTTP compression in 18 files, ratio 18%, 19.5 requests per connection
+(4 errors, 0 warnings, 0 messages)
